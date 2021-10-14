@@ -1,0 +1,21 @@
+body{
+
+  height: auto!important;  /*otomatik büyüklüğü ayarla*/
+  margin: auto;
+  width: 50%;
+}
+
+/*Klasse von Signup Div*/
+.Signup-Form{
+  max-width: 12em;
+  max-height: 40em;
+  padding: 1em;  /* dolgu malzemesi */
+
+}
+
+/*  */
+.inpText{
+
+  padding: 1em;
+  margin: 1em;
+}
