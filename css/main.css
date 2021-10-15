@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:ital,wght@1,700&display=swap');
+
+
 body{
 
   height: auto!important;  /*otomatik büyüklüğü ayarla*/
@@ -14,8 +17,14 @@ body{
 }
 
 /*  */
-.inpText{
+.inpText, .inpButton{
 
   padding: 1em;
   margin: 1em;
+}
+
+h1, h4{
+  color: #E0C097;
+  font-family:  'Fira Sans Condensed', sans-serif;
+
 }
